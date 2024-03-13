@@ -1,0 +1,356 @@
+
+
+
+.menu .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+   
+    
+}
+.menu h2{
+    text-align: center;
+    margin: 30px 0px;
+   
+}
+.menu .card0, .card1, .card2{
+   
+   background-color: burlywood;
+
+    margin-right: 20px;
+        border: solid ;
+        padding: 10px;
+        width: 16em;
+        margin-bottom: 50px;
+        text-align: center;
+        flex-grow: 1;
+        position: relative;
+
+
+
+}
+h3 {
+
+    width: 80px;
+    height: 25px;
+    border: solid black; 
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+    
+    
+   
+}
+.card0 h3{
+    
+
+   
+    background:rgb(101, 55, 132);
+}
+.card1 h3{
+    
+    color: rgb(250, 245, 245);
+    background-color: #7f2a2a;
+   
+   
+}
+.card2 h3{
+   
+    color: aquamarine;
+    background-color: #2d3d48;
+   
+    
+}
+.card0 p, .card1 p, .card2 p{
+    font-size: 15px;
+
+}
+p{
+    margin-top: 43px;
+}
+
+@media (min-width:992px){.menu .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+   
+    
+}
+.menu h2{
+    text-align: center;
+    margin: 30px 0px;
+   
+}
+.menu .card0, .card1, .card2{
+   
+   background-color: burlywood;
+
+    margin-right: 20px;
+        border: solid ;
+        padding: 10px;
+        width: 16em;
+        margin-bottom: 50px;
+        text-align: center;
+        flex-grow: 1;
+        position: relative;
+
+
+
+}
+h3 {
+
+    width: 80px;
+    height: 25px;
+    border: solid black; 
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+    
+    
+   
+}
+.card0 h3{
+    
+
+   
+    background:rgb(101, 55, 132);
+}
+.card1 h3{
+    
+    color: rgb(250, 245, 245);
+    background-color: #7f2a2a;
+   
+   
+}
+.card2 h3{
+   
+    color: aquamarine;
+    background-color: #2d3d48;
+   
+    
+}
+.card0 p, .card1 p, .card2 p{
+    font-size: 15px;
+
+}
+p{
+    margin-top: 43px;
+}
+
+}
+@media (min-width:768px) and (max-width:991px){
+    .menu .container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+       
+        
+    }
+    .menu h2{
+        text-align: center;
+        margin: 30px 0px;
+       
+    }
+    .menu .card0, .card1, .card2{
+       
+       background-color: rgb(199, 125, 125);
+    
+        margin-right: 20px;
+            border: solid ;
+            padding: 10px;
+            width: 16em;
+            margin-bottom: 50px;
+            text-align: center;
+            flex-grow: 1;
+            position: relative;
+    
+    
+    
+    }
+    h3 {
+    
+        width: 80px;
+        height: 25px;
+        border: solid rgb(236, 8, 8); 
+        position: absolute;
+        right: 0;
+        top: 0;
+        
+        
+        
+       
+    }
+    .card0 h3{
+        
+    
+       
+        background:rgb(47, 46, 47);
+    }
+    .card1 h3{
+        
+        color: rgb(71, 5, 238);
+        background-color: #a80775;
+       
+       
+    }
+    .card2 h3{
+       
+        color: rgb(9, 126, 87);
+        background-color: #2d3d48;
+       
+        
+    }
+    .card0 p, .card1 p, .card2 p{
+        font-size: 10px;
+    
+    }
+    p{
+        margin-top: 43px;
+    }.menu .container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+       
+        
+    }
+    .menu h2{
+        text-align: center;
+        margin: 30px 0px;
+       
+    }
+    .menu .card0, .card1, .card2{
+       
+       background-color: rgb(208, 94, 7);
+    
+        margin-right: 20px;
+            border: solid ;
+            padding: 10px;
+            width: 16em;
+            margin-bottom: 50px;
+            text-align: center;
+            flex-grow: 1;
+            position: relative;
+    
+    
+    
+    }
+    h3 {
+    
+        width: 80px;
+        height: 25px;
+        border: solid rgb(49, 51, 3); 
+        position: absolute;
+        right: 0;
+        top: 0;
+        
+        
+        
+       
+    }
+    .card0 h3{
+        
+    
+       
+        background:rgb(10, 84, 149);
+    }
+    .card1 h3{
+        
+        color: rgb(9, 199, 34);
+        background-color: #d05cbb43;
+       
+       
+    }
+    .card2 h3{
+       
+        color: rgb(155, 174, 168);
+        background-color: #021c2d;
+       
+        
+    }
+    .card0 p, .card1 p, .card2 p{
+        font-size: 13px;
+    
+    }
+    p{
+        margin-top: 43px;
+    }
+
+}
+@media( max-width:767px){
+    .menu .container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+       
+        
+    }
+    .menu h2{
+        text-align: center;
+        margin: 30px 0px;
+       
+    }
+    .menu .card0, .card1, .card2{
+       
+       background-color: rgb(128, 96, 55);
+    
+        margin-right: 20px;
+            border: solid yellowgreen;
+            padding: 10px;
+            width: 16em;
+            margin-bottom: 50px;
+            text-align: center;
+            flex-grow: 1;
+            position: relative;
+    
+    
+    
+    }
+    h3 {
+    
+        width: 80px;
+        height: 25px;
+        border: solid rgba(165, 179, 181, 0.255); 
+        position: absolute;
+        right: 0;
+        top: 0;
+        
+        
+        
+       
+    }
+    .card0 h3{
+        
+    
+       
+        background:rgb(240, 7, 190);
+    }
+    .card1 h3{
+        
+        color: rgb(218, 89, 10);
+        background-color: #4e9346;
+       
+       
+    }
+    .card2 h3{
+       
+        color: rgb(11, 140, 232);
+        background-color: #141617;
+       
+        
+    }
+    .card0 p, .card1 p, .card2 p{
+        font-size: 11px;
+    
+    }
+    p{
+        margin-top: 43px;
+    }
+
+}
